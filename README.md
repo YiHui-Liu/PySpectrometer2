@@ -1,5 +1,12 @@
 # PySpectrometer2
 
+## What's New for our Fork?
+* available in Windows 10
+* ROI(region of interest) selection
+* logarithmic yaxis
+
+![log](media/log_axis.png)
+
 The second incarnation of the Spectrometer project!
 
 This is a more advanced, but more flexible version of the original program. It changes the spectrometer from educational 'toy' to serious instrument, which can easily compete with commercial units costing thousands of dollars!
